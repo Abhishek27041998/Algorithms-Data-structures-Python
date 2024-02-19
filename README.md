@@ -4,3 +4,4 @@ This repository consists of Algorithms and Data structures implementation in Pyt
 Data Stuctures implemented
 1. Stacks
 2. Queues
+3. Linked Lists
