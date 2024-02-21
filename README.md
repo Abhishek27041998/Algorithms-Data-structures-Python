@@ -8,3 +8,5 @@ Data Stuctures implemented
 4. Trees
 
    a. Binary Tree with Level Order Insertion and Max Depth
+
+   b. Binary Search Tree 
