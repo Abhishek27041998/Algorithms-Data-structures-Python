@@ -1,7 +1,7 @@
 # Algorithms-Data-structures-Python
 This repository consists of Algorithms and Data structures implementation in Python
 
-Data Stuctures implemented
+Data Structures implemented
 1. Stacks
 2. Queues
 3. Linked Lists
