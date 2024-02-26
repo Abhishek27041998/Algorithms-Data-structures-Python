@@ -16,3 +16,5 @@ Data Structures implemented
    d. Binary Min Heap using Array representation
 
    e. Heap Sort
+
+   f. Maximum Priority Queue using Binary Max Heap Tree Implementation
