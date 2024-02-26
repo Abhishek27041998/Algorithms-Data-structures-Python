@@ -10,3 +10,5 @@ Data Structures implemented
    a. Binary Tree with Level Order Insertion and Max Depth
 
    b. Binary Search Tree 
+
+   c. Binary Max Heap using Array representation
