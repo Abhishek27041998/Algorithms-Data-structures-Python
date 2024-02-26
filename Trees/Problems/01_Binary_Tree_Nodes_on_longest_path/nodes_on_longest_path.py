@@ -75,6 +75,7 @@ if __name__ == '__main__':
 
         inputs_list.append((path, element))
 
+    # Sorting the inputs list is necessary because some inputs have random paths for element insertion
     sorted_list = sorted(inputs_list, key=lambda x: (len(x[0]), x[0]))
 
     for item in sorted_list:
