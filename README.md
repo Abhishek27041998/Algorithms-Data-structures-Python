@@ -12,3 +12,5 @@ Data Structures implemented
    b. Binary Search Tree 
 
    c. Binary Max Heap using Array representation
+
+   d. Binary Min Heap using Array representation
