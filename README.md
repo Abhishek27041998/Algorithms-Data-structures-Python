@@ -14,3 +14,5 @@ Data Structures implemented
    c. Binary Max Heap using Array representation
 
    d. Binary Min Heap using Array representation
+
+   e. Heap Sort
