@@ -28,3 +28,5 @@ Data Structures implemented
    a. Bubble Sort
 
    b. Selection Sort
+
+   c. Insertion Sort
