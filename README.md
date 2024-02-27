@@ -18,3 +18,6 @@ Data Structures implemented
    e. Heap Sort
 
    f. Maximum Priority Queue using Binary Max Heap Tree Implementation
+5. Searching
+   
+   a. Linear Search
