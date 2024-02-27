@@ -23,3 +23,6 @@ Data Structures implemented
    a. Linear Search
 
    b. Binary Search
+6. Sorting
+
+   a. Bubble Sort
