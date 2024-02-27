@@ -26,3 +26,5 @@ Data Structures implemented
 6. Sorting
 
    a. Bubble Sort
+
+   b. Selection Sort
