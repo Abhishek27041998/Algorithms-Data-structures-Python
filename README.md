@@ -21,3 +21,5 @@ Data Structures implemented
 5. Searching
    
    a. Linear Search
+
+   b. Binary Search
