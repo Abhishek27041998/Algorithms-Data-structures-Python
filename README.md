@@ -30,3 +30,7 @@ Data Structures implemented
    b. Selection Sort
 
    c. Insertion Sort
+
+   d. Merge Sort
+
+   e. Quick Sort
