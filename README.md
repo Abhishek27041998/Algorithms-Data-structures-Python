@@ -34,3 +34,5 @@ Data Structures implemented
    d. Merge Sort
 
    e. Quick Sort
+
+   f. Counting Sort
