@@ -41,3 +41,5 @@ Data Structures implemented
    a. Graph representation: Adjacency Matrix and Adjacency List
 
    b. Breadth First Search (BFS)
+
+   c, Depth First Search (DFS)
