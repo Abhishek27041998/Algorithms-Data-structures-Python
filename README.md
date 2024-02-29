@@ -36,3 +36,6 @@ Data Structures implemented
    e. Quick Sort
 
    f. Counting Sort
+7. Graphs
+
+   a. Graph representation: Adjacency Matrix and Adjacency List
