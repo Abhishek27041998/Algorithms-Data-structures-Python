@@ -39,3 +39,5 @@ Data Structures implemented
 7. Graphs
 
    a. Graph representation: Adjacency Matrix and Adjacency List
+
+   b. Breadth First Search (BFS)
