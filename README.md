@@ -42,4 +42,6 @@ Data Structures implemented
 
    b. Breadth First Search (BFS)
 
-   c, Depth First Search (DFS)
+   c. Depth First Search (DFS)
+
+   d. Kruskal Minimum Spanning Tree
