@@ -49,3 +49,5 @@ Data Structures implemented
    e. Prims Algorithm for Minimum Spanning Tree
 
    f. Bellman-Ford Algorithm for Shortest path between vertices
+
+   g. Dijkstra's Algorithm for Shorted path between vertices
