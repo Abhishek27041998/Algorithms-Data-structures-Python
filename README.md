@@ -44,4 +44,6 @@ Data Structures implemented
 
    c. Depth First Search (DFS)
 
-   d. Kruskal Minimum Spanning Tree
+   d. Kruskal Minimum Spanning Tree Algorithm
+
+   e. Prims Algorithm for Minimum Spanning Tree
