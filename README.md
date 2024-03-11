@@ -57,3 +57,5 @@ Data Structures implemented
    i. Flood Fill Algorithm for Maze problems
 
    j. Articulation Points
+
+   k. Bridges
