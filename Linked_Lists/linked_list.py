@@ -32,7 +32,7 @@ class LinkedList:
             temp.next = node
 
     def add_node_at_beginning(self, data):
-        node = Node
+        node = Node(data)
 
         node.next = self.header
         self.header = node
@@ -196,4 +196,8 @@ if __name__ == '__main__':
 
     print("Adding Index=3")
     linked_list.add_node_at_index(305, 3)
+    linked_list.traverse_list()
+
+    print("Adding node in the beginning")
+    linked_list.add_node_at_beginning(1)
     linked_list.traverse_list()
