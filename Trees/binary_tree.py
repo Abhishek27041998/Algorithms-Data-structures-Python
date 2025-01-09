@@ -83,6 +83,21 @@ class Tree:
         self.postorder_traversal(node.right_child)
         print(f"{node.data}")
 
+    def level_order_traversal(self, node):
+        if node is None:
+            return
+
+        queue = [node]
+
+        while len(queue) != 0:
+            parent = queue.pop(0)
+            print(parent.data)
+
+            if parent.left_child is not None:
+                queue.append(parent.left_child)
+
+            if parent.right_child is not None:
+                queue.append(parent.right_child)
 
 if __name__ == '__main__':
     tree = Tree()
@@ -107,6 +122,9 @@ if __name__ == '__main__':
 
     print('##### Post Order Traversal #####')
     tree.postorder_traversal(tree.root)
+
+    print('##### Level Order Traversal #####')
+    tree.level_order_traversal(tree.root)
 
     print('##### Max Depth of the Tree #####')
     print(tree.max_depth(tree.root))
